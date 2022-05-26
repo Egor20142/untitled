@@ -1,3 +1,5 @@
+package Lesson1;
+
 public class Main {
 
      public static void main(String[] args)
@@ -34,7 +36,7 @@ public class Main {
                System.out.println("A>=B");
           } else if (A < B) {
                System.out.println("A<B");
-          } 
+          }
 
 
 
